@@ -1,0 +1,22 @@
+<!-- The boring stuff -->
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="DESCRIBE YOUR WEBSITE">
+	<meta name="keywords" content="KEY, WORDS, HERE">
+	</head>
+	<body>
+		<h1> Volunteer Oppurtunities</h1>
+      <h3>Areas of Focus</h3>
+			<ul class="menu">
+			<li><a <body>Homelessness</a></li>	
+				<li><a <body>Senior Citiznes</a></li>
+ 			<li><a <body>To allow non-profit organizations to broaden their network of volunteers and make a bigger impact on the world.</a></li>
+ 			<li><a <body>To connect students with teachers, administrators and helpful informations that will assist throughout the collge aplication process.</a></li>
+			<h2> <a href=".learn_more">Contact Us!</a></li>
+			</ul>
+
+			
+  	
+</html>
