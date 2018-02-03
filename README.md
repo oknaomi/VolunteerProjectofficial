@@ -7,7 +7,7 @@
 	<meta name="keywords" content="KEY, WORDS, HERE">
 	</head>
 	<body>
-		<h1> Welcome!</h1>
+		<h1> About Us</h1>
       <h3>Mission Statement</h3>
 			<ul class="menu">
 			<li><a <body>To provide a platform for High School students to connect with independent non-profit organizations and engage with their community through volunteering.</a></li>	
