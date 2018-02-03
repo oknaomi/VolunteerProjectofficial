@@ -1,27 +1,12 @@
 ul1 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li1 {
-    float: left;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
 }
 
 li1 a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    color: #666;
 }
 
-/* Change the link color to #111 (black) on hover */
-li1 a:hover {
-    background-color: #111;
-}
 h1 {
   color: purple;
   font-size: 20px;
