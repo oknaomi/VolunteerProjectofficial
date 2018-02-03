@@ -7,7 +7,7 @@
 	<meta name="keywords" content="KEY, WORDS, HERE">
 	</head>
 	<body>
-		<h1>Hello World!</h1>
+		<h1> Welcome!</h1>
       <h3>what's up?</h3>
 			<ul class="menu">
 			<li><a href=".home">Home</a></li>
@@ -16,5 +16,5 @@
 			</ul>
 
 			
-  	</body>
+  	
 </html>
