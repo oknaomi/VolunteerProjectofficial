@@ -1,4 +1,4 @@
-ul2 {
+ul1 {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,6 +6,22 @@ ul2 {
     background-color: #333;
 }
 
+li1 {
+    float: left;
+}
+
+li1 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li1 a:hover {
+    background-color: #111;
+}
 h1 {
   color: purple;
   font-size: 20px;
