@@ -1,6 +1,8 @@
 ul1 {
     border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
+    background-color: #f3f3f3;f
+    font-size: 40px;
+    font-family: 'Conclusion', serif
 }
 
 li1 a {
@@ -9,12 +11,12 @@ li1 a {
 
 h1 {
   color: purple;
-  font-size: 20px;
+  font-size: 50px;
   font-family: 'Georgia', serif
 }
 h3 {
   color: purple;
-  font-size: 20px;
+  font-size: 40px;
   font-family: 'Georgia', serif
 }
 
