@@ -8,8 +8,20 @@
 	</head>
 	<body>
 <form>
-    <label for="party">Enter the date and how long you spent working:</label>
+    <label for="party">Enter the date and when you started:</label>
+    <input id="party" type="datetime-local" name="partydate">
+	<label for="party">Enter the date and when you stopped:</label>
     <input id="party" type="datetime-local" name="partydate">
 </form>
+		
+<search>
+       <query>|makeresults </query>
+       <earliest>$field3.earliest$</earliest>
+       <latest>$field3.latest$</latest>
+       <sampleRatio>1</sampleRatio>
+       <preview>
+         <eval token="SearchSpan">$job.searchLatestTime$-$job.searchEarliestTime$</eval>  
+       </preview>
+     </search>
 
 </html>
