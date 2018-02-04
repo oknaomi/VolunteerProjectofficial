@@ -1,7 +1,4 @@
 /* /* Change the link color to #111 (black) on hover */
-li1 a:hover {
-    background-color: #999999;
-}
 
 style{
   box-sizing: border-box;
