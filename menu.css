@@ -1,6 +1,7 @@
 ul1 {
     border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;f
+    background-color: #f3f3f3;
+    font-family: 'Conclusion', serif
     font-size: 40px;
 }
 
@@ -16,7 +17,7 @@ h1 {
 h3 {
   color: INDIANRED;
   font-size: 40px;
-  font-family: 'Georgia', serif
+  font-family: 'Nova Flat', serif
 }
 
 /* Style all font awesome icons */
